@@ -1,0 +1,143 @@
+.centrar{
+	text-align: center;
+}
+
+.no-margin{
+	margin:0;
+}
+
+.no-padding{
+	padding:0;
+}
+
+.padding-m{
+	padding: 2% 0 0 0;
+}
+
+.main-color{
+	color: rgb(190,213,70);
+}
+
+.font-white{
+	color:white;
+
+}
+
+.mainb-color{
+	/*background-color: LightBlue;*/
+	background-color: rgb(190,213,70);
+	color:white;
+	border-color: rgb(190,213,70);
+}
+
+.float-right{
+	float:right;
+	max-width: 100%;
+}
+body{
+	background:url(../img/pattern2.png);
+	background-color: rgb(220,249,228);
+	margin:0;
+	padding: 0;
+	/*font-family: 'Alegreya Sans', sans-serif;*/
+	font-family: 'Dosis', sans-serif;
+}
+
+.responsiva{
+	max-width: 100%;
+}
+
+.b-white{
+	background-color: rgba(255,255,255,0.8);
+}
+
+.f-white{
+	color: rgb(35,25,55);
+}
+
+.espacio-abajo{
+	padding-bottom:20px;
+}
+
+.separacion-m{
+	margin-top:20px;
+}
+
+.separacion-s{
+	margin-top:10px;
+}
+
+.separacion-l{
+	margin-top:40px;
+}
+
+.borde{
+	border-bottom: 3px solid;
+}
+
+
+.bold{
+	font-weight: bold;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.logo{
+	max-width: 16%;
+}
+
+.logo-nav{
+	width: 30px;
+}
+
+/*TITULO HEADER*/
+
+.titulo{
+	line-height: 90%;
+	font-family: 'Fresca', sans-serif;
+}
+
+.fsize1{
+	font-size: 3em;
+}
+
+.fsize2{
+	font-size: 1.5em;
+}
+
+.fsize3{
+	font-size: 3em;
+}
+
+.fsize4{
+	font-size: 60px;
+}
+
+.fsize5{
+	font-size: 1.1em;
+}
+
+.redsocial{
+	width: 10%;
+}
+
+/*NOTICIAS*/
+
+.datos{
+	font-size: 1em;
+}
+
+.t-noticia{
+	font-size: 2em;
+}
+
+.bajada{
+	font-size: 1.5em;
+}
+
+.text-right{
+	text-align: right;
+}
+
